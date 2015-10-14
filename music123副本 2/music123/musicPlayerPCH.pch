@@ -1,0 +1,18 @@
+//
+//  musicPlayerPCH.pch
+//  music123
+//
+//  Created by lanou3g on 15/10/8.
+//  Copyright (c) 2015年 lanou3g. All rights reserved.
+//
+
+#ifndef music123_musicPlayerPCH_pch
+#define music123_musicPlayerPCH_pch
+#import"APPHeader.h"
+#import"IMPHeader.h"
+#import"KEYHeader.h"
+#import"URLHeader.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
